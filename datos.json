@@ -1,0 +1,18 @@
+[
+    {
+        "text":"[PLAYER_NAME] hola, bienvenido de vuelta",
+        "text2": "ves?"
+    },
+    {
+        "text":"[PLAYER_NAME] ya vamos a jugar?"
+    },
+    {
+        "text":"[PLAYER_NAME] ve y trae el equio"
+    },
+    {
+        "text":"[PLAYER_NAME] enciende el fuego para el asado"
+    },
+    {
+        "text":"Haz visto eso [PLAYER_NAME]? viene muy rapido"
+    }
+]
